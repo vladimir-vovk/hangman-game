@@ -1,7 +1,7 @@
 {
   "name": "@vladimir-vovk/hangman-game-cli",
   "description": "The command-line version of Hangman game",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "hangman-game": "bin/hangman-game",
     "hangman-game-cli": "bin/hangman-game"
@@ -10,7 +10,11 @@
     "start": "bin/hangman-game",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "hangman",
+    "game",
+    "cli"
+  ],
   "author": "Vladimir Vovk",
   "homepage": "https://github.com/vladimir-vovk/hangman-game-cli",
   "repository": {
