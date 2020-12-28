@@ -3,7 +3,7 @@ hangman-game 🕹
 
 The command-line version of Hangman game
 
-<img src="./screen.gif" width="400"></img>
+<img src="./screen.gif" width="700"></img>
 
 # Installation
 
