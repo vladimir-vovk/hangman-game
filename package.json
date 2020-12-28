@@ -1,0 +1,24 @@
+{
+  "name": "@vladimir-vovk/hangman-game-cli",
+  "description": "The command-line version of Hangman game",
+  "version": "0.0.1",
+  "bin": {
+    "hangman-game": "bin/hangman-game",
+    "hangman-game-cli": "bin/hangman-game"
+  },
+  "scripts": {
+    "start": "bin/hangman-game",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vladimir Vovk",
+  "homepage": "https://github.com/vladimir-vovk/hangman-game-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimir-vovk/hangman-game-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vladimir-vovk/hangman-game-cli/issues"
+  },
+  "license": "MIT"
+}
